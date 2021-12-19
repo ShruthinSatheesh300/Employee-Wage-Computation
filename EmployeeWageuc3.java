@@ -18,6 +18,7 @@ public class EmployeeWageuc3 {
 		}
 		else
 		{
+		
 			System.out.println("The Salary is Zero");
 		}
 
